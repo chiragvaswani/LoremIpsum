@@ -10,7 +10,7 @@ html {
 }
 @media (max-width:999px) {
 	body {
-		height:100vh;
+		height:100%;
 	}
 }
   #stars {
