@@ -89,7 +89,7 @@ html {
   }
 }
 
-@media (min-width:999px) {
+@media (max-width:999px) {
 	
 @keyframes animStar {
   from {
