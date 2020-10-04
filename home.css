@@ -82,10 +82,10 @@ html {
 
 @keyframes animStar {
   from {
-    transform: translateY(0px);
+    transform: translateY(-2000px);
   }
   to {
-    transform: translateY(-2000px);
+    transform: translateY(3000px);
   }
 }
 .introduction{
@@ -283,10 +283,10 @@ button{
 
 @keyframes planetAnimation {
   0%, 10% {
-    transform: translate(18vw, -50vw) rotate(15deg);
+    transform: translate(18vw, -30vh) rotate(15deg);
   }
   90%, 100% {
-    transform: translate(-5vw, 150vw) rotate(-5deg);
+    transform: translate(-5vw, 150vh) rotate(-5deg);
   }
 }
 
