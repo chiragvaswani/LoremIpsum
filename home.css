@@ -278,15 +278,15 @@ button{
 
 .intro-image {
   width: 50vw;
-  animation: sneakerAnimation 5s cubic-bezier(0.25, 1, 0.5, 1) infinite alternate;
+  animation: planetAnimation 12s cubic-bezier(0.25, 1, 0.5, 1) infinite alternate;
 }
 
-@keyframes sneakerAnimation {
+@keyframes planetAnimation {
   0%, 10% {
-    transform: translate(100vw, 0) rotate(15deg);
+    transform: translate(18vw, -50vw) rotate(15deg);
   }
   90%, 100% {
-    transform: translate(-5vw, -5vw) rotate(-30deg);
+    transform: translate(-5vw, 150vw) rotate(-5deg);
   }
 }
 
