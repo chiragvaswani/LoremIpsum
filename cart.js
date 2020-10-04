@@ -232,7 +232,7 @@ var cart = {
     // RECORD TO DATABASE
     // PAYMENT
     // WHATEVER IS REQUIRED
-    alert("TO DO");
+    alert("Thank you for Enrolling! See you at Class!");
 
     /*
     var data = new FormData();
