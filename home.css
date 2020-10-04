@@ -283,12 +283,24 @@ button{
 
 @keyframes planetAnimation {
   0%, 10% {
-    transform: translate(18vw, -30vh) rotate(15deg);
+    transform: translate(18vw, -50vh) rotate(15deg);
   }
   90%, 100% {
-    transform: translate(-5vw, 150vh) rotate(-5deg);
+    transform: translate(-5vw, 125vh) rotate(-5deg);
   }
 }
+@media (mid-width:999px) {
+	
+@keyframes planetAnimation {
+  0%, 10% {
+    transform: translate(18vw, -50vh) rotate(15deg);
+  }
+  90%, 100% {
+    transform: translate(-5vw, 200vh) rotate(-5deg);
+  }
+}
+}
+
 
 /* TERMINAL STARTS FROM HERE */
 
