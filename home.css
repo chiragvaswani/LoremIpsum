@@ -296,7 +296,7 @@ button{
     transform: translate(18vw, -50vh) rotate(15deg);
   }
   90%, 100% {
-    transform: translate(-5vw, 200vh) rotate(-5deg);
+    transform: translate(-5vw, 175vh) rotate(-5deg);
   }
 }
 }
